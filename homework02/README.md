@@ -1,4 +1,4 @@
-## 启动Server
+## Server
 ![img.png](img.png)
 
 ## Client
