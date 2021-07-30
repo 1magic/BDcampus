@@ -1,7 +1,5 @@
 # Hbase
 
-![image-20210730172958392](image-20210730172958392.png)
-
 ## Hbase Shell 操作
 ![img.png](img.png)
 
